@@ -480,8 +480,8 @@ export default function ValentineRouletteSite() {
           <div className="grid items-center gap-10 md:grid-cols-2">
             <div>
               <p className="text-3xl font-black leading-tight text-[#f3c2b4] md:text-4xl">
-                Siga nosso Instagram e
-                <span className="block text-[#ffb29d]">GANHE UM BRINDE na loja!</span>
+                Siga nosso Instagram
+                <span className="block text-[#ffb29d]"></span>
               </p>
 
               <p className="mt-5 text-base leading-8 text-[#e2b1a5]">
@@ -492,9 +492,7 @@ export default function ValentineRouletteSite() {
                 @_intimestudio
               </div>
 
-              <p className="mt-6 text-sm text-[#c9978c]">
-                Apresente que está seguindo para retirar seu brinde.
-              </p>
+            
             </div>
 
             <div className="relative flex items-center justify-center">
